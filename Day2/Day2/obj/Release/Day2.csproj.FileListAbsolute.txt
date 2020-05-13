@@ -1,0 +1,6 @@
+C:\Users\biggi\Desktop\Lexicon NE20\Day2\Day2\bin\Release\Day2.exe.config
+C:\Users\biggi\Desktop\Lexicon NE20\Day2\Day2\bin\Release\Day2.exe
+C:\Users\biggi\Desktop\Lexicon NE20\Day2\Day2\bin\Release\Day2.pdb
+C:\Users\biggi\Desktop\Lexicon NE20\Day2\Day2\obj\Release\Day2.csproj.CoreCompileInputs.cache
+C:\Users\biggi\Desktop\Lexicon NE20\Day2\Day2\obj\Release\Day2.exe
+C:\Users\biggi\Desktop\Lexicon NE20\Day2\Day2\obj\Release\Day2.pdb

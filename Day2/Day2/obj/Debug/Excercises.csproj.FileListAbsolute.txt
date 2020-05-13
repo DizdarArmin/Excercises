@@ -1,0 +1,3 @@
+C:\Users\biggi\Desktop\Lexicon NE20\Day2\Day2\obj\Debug\Excercises.csproj.CoreCompileInputs.cache
+C:\Users\biggi\Desktop\Lexicon NE20\Day2\Day2\obj\Debug\Day2.exe
+C:\Users\biggi\Desktop\Lexicon NE20\Day2\Day2\obj\Debug\Day2.pdb

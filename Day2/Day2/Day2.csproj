@@ -43,6 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Library.cs" />
+    <Compile Include="Sorting.cs" />
+    <Compile Include="GradingSystem.cs" />
+    <Compile Include="EvenNumbers.cs" />
+    <Compile Include="Reverse.cs" />
+    <Compile Include="Calculator.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
