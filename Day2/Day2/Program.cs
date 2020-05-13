@@ -99,8 +99,10 @@ namespace Day2
                 Console.WriteLine(" - For Reverse Array press 4");
                 Console.WriteLine(" - For Even Number press 5");
                 Console.WriteLine(" - For Sorting from 2 files press 6");
+                
 
                 Console.WriteLine(" - For Library press 7");
+                Console.WriteLine(" - For String Manipulation press 8");
 
                 Console.WriteLine(" ");
                 Console.WriteLine(" - For exit press Q");
@@ -147,6 +149,12 @@ namespace Day2
                 {
                     Library();
                    
+                }
+                else if (userInput.KeyChar == '8')
+                {
+                    StringManipulation manipulator = new StringManipulation();
+                    manipulator.Manipulate();
+
                 }
 
 
